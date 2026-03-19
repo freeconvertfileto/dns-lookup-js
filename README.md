@@ -2,7 +2,7 @@
 
 Look up DNS records for any domain by record type — A, AAAA, MX, TXT, CNAME, NS, SOA — via a backend API, entirely from the browser.
 
-**Live Demo:** https://file-converter-free.com/en/network-tools/dns-lookup
+**Live Demo:** https://file-converter-free.com/en/network-tools/dns-lookup-online
 
 ## How It Works
 
